@@ -235,7 +235,6 @@ a:link{
 /*responsiveness*/
 @media (max-width:1024px){
   .title-image{
-    transform: rotate(0);
     position: static;
     width:70%;
   }
